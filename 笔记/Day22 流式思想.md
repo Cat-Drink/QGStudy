@@ -1,1 +1,1 @@
-https://www.yuque.com/g/ruguoyoufenglaibiansuifengqu/cx50vr/qpalc0dunrgmvhv5/collaborator/join?token=Su6liC8WcKwNl23w# 《流式思想》
+https://www.yuque.com/g/ruguoyoufenglaibiansuifengqu/cx50vr/fhlpkainktomcrif/collaborator/join?token=WBHpGqwSLEyBwMNE# 《流式思想》
