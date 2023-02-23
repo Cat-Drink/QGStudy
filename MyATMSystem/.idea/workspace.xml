@@ -13,7 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -22,6 +24,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Kwec3MsNIIp9au7cxAXqGnAw1z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -36,21 +41,36 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/桌面/MyGit/QG-3122001477/QGStudy/MyATMSystem&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/桌面/MyGit/QG-3122001477/QGStudy/MyATMSystem/lib&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="Application.EditSystem">
-    <configuration name="EditSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ATM.EditSystem" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\桌面\MyGit\QG-3122001477\QGStudy\MyATMSystem\lib" />
+      <recent name="D:\桌面\MyGit\QG-3122001477\QGStudy\MyATMSystem\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\桌面\MyGit\QG-3122001477\QGStudy\MyATMSystem\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View.View" />
       <module name="MyATMSystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ATM.*" />
+          <option name="PATTERN" value="View.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,25 +78,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="MyATMSystem" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="MyATMSystem" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EditSystem" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.View" />
       </list>
     </recent_temporary>
   </component>
@@ -91,6 +95,8 @@
       <workItem from="1674890149825" duration="23168000" />
       <workItem from="1674926318204" duration="24000" />
       <workItem from="1674962285659" duration="4000" />
+      <workItem from="1677074858527" duration="32943000" />
+      <workItem from="1677163914211" duration="322000" />
     </task>
     <servers />
   </component>
