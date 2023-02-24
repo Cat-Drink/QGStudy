@@ -1,7 +1,7 @@
 package View;
 
 import Model.Service.Log.Log;
-import Model.Service.System.Systemimple.SystemImpl;
+import Model.Service.System.SystemImpl;
 import Model.Service.System.Systemimple.SystemInter;
 import Utils.JDBCUtil;
 

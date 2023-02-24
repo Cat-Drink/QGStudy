@@ -1,6 +1,7 @@
-package Model.Service.System.Systemimple;
+package Model.Service.System;
 
 import Model.POJO.Accounts;
+import Model.Service.System.Systemimple.SystemInter;
 import Model.Service.SystemMethods.MethodsInter.Methods;
 import Model.Service.SystemMethods.MethodsImpl;
 import Utils.AccountsUtils;
@@ -11,7 +12,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Scanner;
 
-public class SystemImpl implements SystemInter{
+public class SystemImpl implements SystemInter {
     public  void loading(Connection conn , Scanner scanner) {
         PreparedStatement pstm = null;
         ResultSet rs = null;
